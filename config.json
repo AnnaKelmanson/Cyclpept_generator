@@ -1,0 +1,19 @@
+{
+    "data_paths": {
+      "smiles_csv": "../data/Updated_SI_Table_with_SMILES_HBD.csv"
+    },
+    "genetic_algorithm_settings": {
+      "mutation_fraction": 0.1,
+      "crossover_fraction": 0.8,
+      "long_liver_fraction": 0.2,
+      "population_size": 50,
+      "price_limit": 50,
+      "num_epochs": 10,
+      "size_limit": 10,
+      "type_of_cyclization": "disulfide",
+      "min_len": 3,
+      "max_len": 4,
+      "convergence_percentage": 0.01
+    }
+  }
+  
