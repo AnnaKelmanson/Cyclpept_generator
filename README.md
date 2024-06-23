@@ -1,2 +1,2 @@
 # Cyclpept_generator
-Generation of cyclic peptide structures according to available amino acids
+Generation of cyclic peptide structures according to available amino acids with genetic algorithm 
